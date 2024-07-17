@@ -1,2 +1,2 @@
 # sigepi
-Sistema de Gestión y Evaluación de Proyectos de Investigación
+Sistema de Gestión y Evaluación de Productos y Proyectos de Investigación e Innovación
